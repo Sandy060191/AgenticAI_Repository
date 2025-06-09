@@ -1,5 +1,0 @@
-#!/Users/sandeepkumarsingh/Desktop/Agentic_AI/Krish_Naik_Class_Agentic_AI/Agentic_AI_base/bin/python3.11
-
-from idlelib.pyshell import main
-if __name__ == '__main__':
-    main()
