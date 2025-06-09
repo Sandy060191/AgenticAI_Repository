@@ -1,0 +1,13 @@
+prefix=/Users/sandeepkumarsingh/Desktop/Agentic_AI/Krish_Naik_Class_Agentic_AI/Agentic_AI_base
+exec_prefix=/Users/sandeepkumarsingh/Desktop/Agentic_AI/Krish_Naik_Class_Agentic_AI/Agentic_AI_base
+libdir=/Users/sandeepkumarsingh/Desktop/Agentic_AI/Krish_Naik_Class_Agentic_AI/Agentic_AI_base/lib
+sharedlibdir=/Users/sandeepkumarsingh/Desktop/Agentic_AI/Krish_Naik_Class_Agentic_AI/Agentic_AI_base/lib
+includedir=/Users/sandeepkumarsingh/Desktop/Agentic_AI/Krish_Naik_Class_Agentic_AI/Agentic_AI_base/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
