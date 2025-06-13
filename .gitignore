@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+agentic_ai_base/
 
 # Spyder project settings
 .spyderproject
