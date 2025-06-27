@@ -4,3 +4,4 @@ langchain-groq
 langchain-openai
 langchain-core
 langchain-community
+pypdf
